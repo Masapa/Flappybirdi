@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\nappula.cs">
+    <Files>
+      <File FileName="Assets\bird.cs" Line="28" Column="27" />
+      <File FileName="Assets\Kamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\bg.cs" Line="1" Column="1" />
+      <File FileName="Assets\ground.cs" Line="1" Column="1" />
+      <File FileName="Assets\Controller.cs" Line="84" Column="1" />
+      <File FileName="Assets\pipe.cs" Line="1" Column="1" />
+      <File FileName="Assets\pisteet.cs" Line="1" Column="1" />
+      <File FileName="Assets\nappula.cs" Line="8" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
